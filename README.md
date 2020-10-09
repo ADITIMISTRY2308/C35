@@ -1,2 +1,2 @@
-# C35
-cg
+# synchronousBallMovement
+Ball moving synchronously
